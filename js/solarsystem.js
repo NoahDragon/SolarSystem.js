@@ -53,7 +53,7 @@ $(document).ready(function(){
   var planet_distance = 30;
   var timer = 0;
   var interval_time = 100;
-  var earth_year = 6000; // how long a earth year on this canvas_layer1, unit is ms
+  var earth_year = 60000; // how long a earth year on this canvas_layer1, unit is ms
   var orbit_portion = earth_year/interval_time;
   var cycle_H = [0.000001,0.24,0.62,1,1.88,11.86,29.46,84,165]; //first element should be zero, set to 0.000001 is to avoid divid by zero
   var cycle_G = [1,0.24,0.62,0.000001,1.88,11.86,29.46,84,165];
