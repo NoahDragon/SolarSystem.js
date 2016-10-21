@@ -10,3 +10,6 @@ An HTML Solar System, live demo: [http://abnerchou.me/SolarSystem.js/](http://ab
 Features:
 * Allow change from heliocentric to geocentric, or other planets centered solar system
 * Draw route path for each planet
+
+TODO:
+* Draw smooth line (sample http://codepen.io/AbnerChou/pen/mAQAXx)
